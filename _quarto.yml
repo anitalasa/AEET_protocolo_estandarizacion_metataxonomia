@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "AEET estandarizacion"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Flujo de trabajo
+        href: Flujo_trabajo.qmd
+      - text: Scripts
+        menu: 
+          - href: Scripts_Bacterias.qmd 
+            text: Procariotas
+          - href: Scripts_Hongos.qmd 
+            text: Hongos
+
+    right: 
+      - icon: github 
+        aria-label: GitHub
+        href: https://github.com/anitalasa
+        
+      - text: "<img src='images/orcid.png' title='ORCID' alt='ORCID' style='height:20px;'>"
+        href: https://orcid.org/0000-0003-3783-7157
+        
+      - text: "<img src='images/internet.png' title='personal web' alt='personal web' style='height:20px;'>"
+        href: https://sites.google.com/view/anavlasa
+        
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+    code-fold: false
+    code-tools: true
+
+editor: visual
+
+
+

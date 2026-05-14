@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "58821bc9"
+  },
+  "about.qmd": {
+    "about.html": "fae3960b"
+  },
+  "Flujo_trabajo.qmd": {
+    "Flujo_trabajo.html": "c896285d"
+  },
+  "Scripts_Bacterias.qmd": {
+    "Scripts_Bacterias.html": "0c937f03"
+  },
+  "Scripts_Hongos.qmd": {
+    "Scripts_Hongos.html": "4ea9ecc0"
+  }
+}

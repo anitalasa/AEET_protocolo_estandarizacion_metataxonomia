@@ -1,0 +1,9 @@
+---
+title: "Flujo de trabajo"
+format: html
+---
+
+Al inicio del taller, se propone el flujo de trabajo detallado en la Figura F1, para el análisis de secuencias de amplicones del gen procariota *16S rRNA*, y de las regiones intergénicas fúngicas ITS1 e ITS2. Se espera poder ampliarlo y modificarlo acorde a las sugerencias y experiencia de los participantes del taller. 
+
+
+![Figura F1. Flujo de trabajo para el análisis de lecturas de amplicones procariotas y fúngicos obtenidos por secuenciación Illumina.](images/Figura_F1.png)

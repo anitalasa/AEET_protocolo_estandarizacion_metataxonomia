@@ -1,0 +1,20 @@
+---
+title: "Estandarización del protocolo de procesamiento de lecturas de secuenciación masiva en proyectos de metataxonomía (*metabarcoding*)"
+---
+# 1. ¡Hola!
+
+Bienvenido al taller "*Hacia la normalización en el procesado bioinformático en metataxonomía del microbioma vegetal y edáfico*" celebrado en el seno del **V Simposio del** [Grupo de Trabajo Interacciones Planta-Suelo](https://www.aeet.org/es/gruposdetrabajo/plansoil.html "Acceder a la web") de la AEET (Asociación Española de Ecología Terrestre).
+
+# 2. Objetivos
+
+El **objetivo** último de este taller es crear, de manera consensuada, un protocolo estandarizado que pueda ser utilizado a modo de guía u hoja de ruta por todos los investigadores que se centran en el estudio de las comunidades microbianas asociadas a las plantas y al suelo. Se pretende, por tanto, establecer las bases para los trabajos de metataxonomía o *metabarcoding* y unificar los protocolos de procesamientos de lecturas de secuenciación masiva.
+
+Así pues, el protocolo consensuado pretende ser un documento de trabajo para todos los socios del Grupo de Trabajo, y en general, para cualquier investigador de la AEET. Gracias al seguimiento de protocolos estandarizados los trabajos llevados a cabo por los diferentes investigadores podrán ser plenamente comparables y unificados.
+
+# 3. Autoría
+
+El taller es impartido por [Ana V. Lasa](https://sites.google.com/view/anavlasa "Acceder al portfolio"), investigadora postdoctoral Momentum en la [Estación Experimental del Zaidín](https://www.eez.csic.es/), con más de 10 años de experiencia en este tipo de análisis, y, por supuesto, socia de la AEET.
+
+# 4. Licencia
+
+<a href="https://example.com">Standardization protocol AEET</a> © 2026 by <a href="https://sites.google.com/view/anavlasa">Ana V. Lasa</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
